@@ -1,0 +1,9 @@
+
+
+
+aws:
+  sqs:
+    access-key: test
+    secret-key: test
+    regions: ap-northeast-2
+    message: qkrwjdgus
